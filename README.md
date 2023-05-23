@@ -1,4 +1,4 @@
-# omero-workshop
+# OMERO Workshop Resources
 
 ## Fiji scripting workflow
 
@@ -13,3 +13,10 @@ https://omero-guides.readthedocs.io/en/latest/fiji/docs/installation.html
 ## TrackMate
 
 https://raw.githubusercontent.com/ome/training-scripts/v0.3.0/practical/jython/tracker.jy
+
+#
+<p float='left'>
+    <a href='https://bioimaging.fi' target='_blank'>
+        <img src='https://raw.githubusercontent.com/Turku-BioImaging/ColonyArea/main/images/BioImaging_logo_posa_vaaka.jpg' alt='Turku BioImaging' style="height:75px;width:auto;"/>
+    </a>
+</p>
