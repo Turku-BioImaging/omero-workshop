@@ -5,7 +5,7 @@ __Fiji/ImageJ__ https://fiji.sc
 __OMERO.insight__ https://www.openmicroscopy.org/omero/downloads/  
 __OMERO Fiji plugin__ https://www.openmicroscopy.org/omero/downloads/
 
-## Fiji scripting workflow
+## Fiji scripting
 
 Install OMERO plugin for Fiji/ImageJ
 https://omero-guides.readthedocs.io/en/latest/fiji/docs/installation.html
