@@ -1,20 +1,24 @@
 # OMERO Workshop Resources
 
+## Downloads
+__Fiji/ImageJ__ https://fiji.sc  
+__OMERO.insight__ https://www.openmicroscopy.org/omero/downloads/  
+__OMERO Fiji plugin__ https://www.openmicroscopy.org/omero/downloads/
+
 ## Fiji scripting workflow
 
 Install OMERO plugin for Fiji/ImageJ
 https://omero-guides.readthedocs.io/en/latest/fiji/docs/installation.html
 
-### Script 1
-https://raw.githubusercontent.com/ome/training-scripts/v0.3.0/practical/groovy/open_omero_image_no_download.groovy
-### Script 2
-https://raw.githubusercontent.com/ome/training-scripts/v0.3.0/practical/groovy/analyse_dataset_and_save_rois.groovy
-### Script 3
-https://raw.githubusercontent.com/ome/training-scripts/v0.3.0/practical/groovy/analyse_dataset_save_rois_and_summary_table.groovy
+__Script 1__
+https://raw.githubusercontent.com/ome/training-scripts/v0.3.0/practical/groovy/open_omero_image_no_download.groovy  
+__Script 2__
+https://raw.githubusercontent.com/ome/training-scripts/v0.3.0/practical/groovy/analyse_dataset_and_save_rois.groovy  
+__Script 3__
+https://raw.githubusercontent.com/ome/training-scripts/v0.3.0/practical/groovy/analyse_dataset_save_rois_and_summary_table.groovy  
 
 ## TrackMate
-
-https://raw.githubusercontent.com/ome/training-scripts/v0.3.0/practical/jython/tracker.jy
+__Script__ https://raw.githubusercontent.com/ome/training-scripts/v0.3.0/practical/jython/tracker.jy
 
 #
 <p float='left'>
